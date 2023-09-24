@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Álvaro Contreras Panero
+- 👀 I’m interested in tecnology, phisics, electronics and coding
+- 🌱 I’m currently learning an engineering grade about robotics and automation
+- 💞️ I’m looking to collaborate on learning python
